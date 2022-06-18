@@ -1,0 +1,110 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "クリック X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "Parammouth",
+			"GroupId": "",
+			"Name": "口"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "ParamWhite",
+			"GroupId": "",
+			"Name": "ホワイトアウト"
+		},
+		{
+			"Id": "Paramlight",
+			"GroupId": "",
+			"Name": "きらきら"
+		},
+		{
+			"Id": "ParamClick",
+			"GroupId": "",
+			"Name": "クリック"
+		},
+		{
+			"Id": "Parambless",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "Paramhand",
+			"GroupId": "",
+			"Name": "手"
+		},
+		{
+			"Id": "Paramhandzoom",
+			"GroupId": "",
+			"Name": "手拡大"
+		},
+		{
+			"Id": "Paramhand_move",
+			"GroupId": "",
+			"Name": "手移動"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part6",
+			"Name": "クリック！.png"
+		},
+		{
+			"Id": "Part5",
+			"Name": "光手追加.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "フォルダー 1"
+		},
+		{
+			"Id": "Part7",
+			"Name": "背景4dc22WG.png"
+		},
+		{
+			"Id": "Part2",
+			"Name": "光"
+		},
+		{
+			"Id": "Part3",
+			"Name": "おてて"
+		},
+		{
+			"Id": "Part8",
+			"Name": "暖簾.png"
+		},
+		{
+			"Id": "Part4",
+			"Name": "開き"
+		}
+	]
+}

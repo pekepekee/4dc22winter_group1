@@ -1,0 +1,22 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "maguro_4dc22W.moc3",
+		"Textures": [
+			"maguro_4dc22W.2048/texture_00.png"
+		],
+		"DisplayInfo": "maguro_4dc22W.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

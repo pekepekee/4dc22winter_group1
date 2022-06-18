@@ -1,0 +1,61 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "woke",
+			"GroupId": "",
+			"Name": "woke"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "HairBack",
+			"GroupId": "",
+			"Name": "しっぽ揺れ　後"
+		},
+		{
+			"Id": "transparent",
+			"GroupId": "",
+			"Name": "透明度"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part",
+			"Name": "筋肉"
+		},
+		{
+			"Id": "Part8",
+			"Name": "右腕"
+		},
+		{
+			"Id": "Part2",
+			"Name": "右腕"
+		},
+		{
+			"Id": "Part7",
+			"Name": "足"
+		},
+		{
+			"Id": "Part3",
+			"Name": "足"
+		},
+		{
+			"Id": "Part4",
+			"Name": "sannma_4dc22W.psd"
+		},
+		{
+			"Id": "Part5",
+			"Name": "右足"
+		}
+	]
+}

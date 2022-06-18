@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4ca1d873413a6f4c90045011130fa4d, type: 3}
+  m_Name: Sanma
+  m_EditorClassIdentifier: 
+  itemName: "\u3055\u3093\u307E"
+  itemImage: {fileID: -2031072616754546206, guid: 65ed2661dcb1236438d2c56650c87e09, type: 3}
+  live2DModel: {fileID: 7431259674463280325, guid: c78441d4273bc194aa6f77c1414c3c74, type: 3}
+  live2DShowDuration: 1.1
+  isGameClearItem: 0

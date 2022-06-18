@@ -1,0 +1,116 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "Paramlogo",
+			"GroupId": "",
+			"Name": "ロゴ"
+		},
+		{
+			"Id": "Paramspark",
+			"GroupId": "",
+			"Name": "雷"
+		},
+		{
+			"Id": "ParamF",
+			"GroupId": "",
+			"Name": "ロゴ魚"
+		},
+		{
+			"Id": "Paramhighlight",
+			"GroupId": "",
+			"Name": "ハイライト"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "体の回転　Z"
+		},
+		{
+			"Id": "Paramsize",
+			"GroupId": "",
+			"Name": "拡大"
+		},
+		{
+			"Id": "Parambubble",
+			"GroupId": "",
+			"Name": "泡"
+		},
+		{
+			"Id": "ParamHikari",
+			"GroupId": "",
+			"Name": "背景光"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "髪揺れ　後"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part3",
+			"Name": "SSSR_maguro.png"
+		},
+		{
+			"Id": "Part2",
+			"Name": "4dcW22_マグロ背景.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "SSR_4dc22w.psd"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		]
+	]
+}
